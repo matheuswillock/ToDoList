@@ -15,7 +15,6 @@ namespace ToDoList.ContentConext
             Username = username;
             Email = email;
             Password = password;
-
             ToDoCards = new List<ToDoCard>();
         }
     }
